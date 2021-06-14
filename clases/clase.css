@@ -1,0 +1,22 @@
+#titulo {
+    color: black;
+  }
+  body {
+    margin:0;
+    background-color: chartreuse;
+  }
+  #clase{ 
+    background-color:blue;
+    width: 400px;
+    height: 150px;
+  }
+  #Clase2 {
+    color:cadetblue
+  }
+  #cualquiernombre{
+    background-color: crimson; width:100%;
+  } 
+  #cualquiernombre {
+display:flex ;
+justify-content:center;
+  }
